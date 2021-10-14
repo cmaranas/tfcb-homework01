@@ -25,4 +25,8 @@ Image 4: ![](./images/casent0906296_Cataglyphisfortis.jpg "image 4")
 |   1    | Rhytidoponera metallica| 0.5 | green? |
 | 2| Camponotus darwinii | 1 | mohawk |
 | 3 | Acanthomyrmex ferox | 0.5 | chrome, shiny |
+<<<<<<< HEAD:README2.md
 |4 | Cataglyphis fortis | 1| gold shoes |
+=======
+|4 | Cataglyphis fortis | 1| kinda boring |
+>>>>>>> bd927b9f2dafb9db0c4ae6dcddb3eb6797323bcd:README_prob5.md
